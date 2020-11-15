@@ -1,4 +1,5 @@
-#     > powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://git.io/JJ8R4')"
+# This script installs and enable all the necessary items for installing and using java script I am Rishabh Singh prsenting you my creation.Thank you for using it(Smily Emoji).
+#     > powershell -nop -c " iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/Paneerdev/javainstall/main/tp.ps1'))"
 
 $tweaks = @(
 	"RequireAdmin",
