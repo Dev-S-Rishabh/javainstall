@@ -1,3 +1,5 @@
+#     > powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://git.io/JJ8R4')"
+
 $tweaks = @(
 	"RequireAdmin",
     "CreateRestorePoint"
